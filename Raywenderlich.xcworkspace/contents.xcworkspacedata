@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Showtime-Starter/Native/Showtime/Showtime.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:InstrumentsSwift-Starter/InstrumentsTutorial.xcodeproj">
    </FileRef>
    <FileRef
