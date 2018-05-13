@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Flo/Flo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:PropertyFinder/ios/PropertyFinder.xcodeproj">
    </FileRef>
    <FileRef
