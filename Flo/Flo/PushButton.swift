@@ -8,7 +8,7 @@
 
 import UIKit
 
-// 支持在.storyboard中实时渲染
+// @IBDesignable 支持在.storyboard中实时渲染,想想playground
 @IBDesignable class PushButton: UIButton {
     
     @IBInspectable var fillColor: UIColor = UIColor.green
