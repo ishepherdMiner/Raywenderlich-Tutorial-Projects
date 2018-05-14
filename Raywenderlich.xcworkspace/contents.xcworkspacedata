@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/Jason/Developer/Raywenderlich-Tutorial-Projects/Flo-part2-Starter/Flo-part2-Starter.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Flo/Flo.xcodeproj">
    </FileRef>
    <FileRef
